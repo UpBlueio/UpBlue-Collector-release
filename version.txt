@@ -1,1 +1,1 @@
-refs/tags/v1.3.4-beta.18
+refs/tags/v1.3.4-beta.19
