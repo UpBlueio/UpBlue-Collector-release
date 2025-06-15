@@ -1,1 +1,1 @@
-refs/tags/v1.5.1
+refs/tags/v1.5.2
