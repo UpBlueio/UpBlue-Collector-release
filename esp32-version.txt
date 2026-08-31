@@ -1,1 +1,1 @@
-esp32-v1.0.0-alpha.5
+esp32-v1.0.0-alpha.6
